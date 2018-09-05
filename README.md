@@ -12,9 +12,9 @@ Install e-puck python package
 
 Select position 3 on e-puck
 
-Find MAC addresses in device manager 
-
 Connect to PC using e-puck number as password
+
+Find MAC addresses of e-pucks in device manager 
 
 Use calibrate.py and chessboard to calibrate camera
 
