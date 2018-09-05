@@ -1,6 +1,6 @@
 # Project Title
 
-E-Puck OpenCV Aurco Tags
+e-puck track and command
 
 ## Getting Started
 
@@ -8,13 +8,15 @@ Visit: http://www.gctronic.com/doc/index.php/E-Puck
 
 Install pybluez 
 
-Install E-Puck python package 
+Install e-puck python package 
 
-Make sure selector in position 3
+Select position 3 on e-puck
 
 Find MAC addresses in device manager 
 
-Connect to PC using E-Puck number as password
+Connect to PC using e-puck number as password
+
+Use calibrate.py and chessboard to calibrate camera
 
 Use Template.py to begin own experiments 
 
