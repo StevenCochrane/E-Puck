@@ -1,6 +1,6 @@
 # Project Title
 
-e-puck track and command
+Tag Detection and Control
 
 ## Getting Started
 
