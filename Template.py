@@ -171,7 +171,7 @@ while (True):
                 aruco.drawAxis(frame, mtx, dist, rvec[i], tvec[i], 0.1)
 
             if stoptag in ids:
-                setvel(0, [0, 0, 0])
+                setvel([0, 0, 0] , [0, 0, 0])
                 exit(6)
 
     frame = aruco.drawDetectedMarkers(frame, corners)
