@@ -22,6 +22,8 @@ Use Template.py to begin own experiments
 
 Also added my own files to show some working examples (beware, poorly written)
 
+Print Aruco Tags here: http://chev.me/arucogen/
+
 
 
 
